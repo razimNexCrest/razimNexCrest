@@ -36,12 +36,12 @@ I'm a passionate Software Developer based in Thalassery, Kerala, currently worki
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=razinNexCrest&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?user=razinNexCrest&show_icons=true&theme=radical" alt="GitHub Stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=razimNexCrest&theme=radical" alt="GitHub Streak" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=razimNexCrest&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?user=razimNexCrest&layout=compact&theme=radical" alt="Top Languages" />
 </div>
 
 ## 🏆 Featured Projects
